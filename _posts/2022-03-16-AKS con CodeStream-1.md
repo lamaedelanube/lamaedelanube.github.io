@@ -114,7 +114,7 @@ El modelo básico al que vamos a llegar es este:
 
 Realmente es bastante sencillo y pudimos haberlo hecho en un solo paso, pero quisiera tener granularidad y poder poner controles en el medio.
 
-Pero este post está ya muy largo, así que lo continuaremos en la siguiente <a href=https://github.com/lamaedelanube/lamaedelanube.github.io/blob/main/_posts/2022-03-16-AKS%20con%20CodeStream-2.md>entrada. </a>
+Pero este post está ya muy largo, así que lo continuaremos en la siguiente <a href=https://github.com/lamaedelanube/lamaedelanube.github.io/blob/main/_posts/2022-03-17-AKS%20con%20CodeStream-2.md>entrada. </a>
 
 
 

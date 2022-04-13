@@ -39,6 +39,3 @@ defaults:
       type: post
     values:
       tags: Other
-
-google_analytics: UA-NNNNNNNN-N
-show_excerpts: true

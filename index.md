@@ -1,4 +1,4 @@
-Bienvenido
+<b>Bienvenidos </b>
 
 La idea de este blog es que podamos aprender juntos, de las cosas que vamos leyendo, probando o implementando cada dia.
 

@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Bienvenido
 
-Maybe say a some things about yourself.
+La idea de este blog es que podamos aprender juntos, de las cosas que vamos leyendo, probando o implementando cada dia.
 
-Or maybe what you plan to blog about.
+Actualmente me desempeño como consultora para VMWare, por lo tanto habrá una pequeña tendencia a hablar sobre tecnologías varias de esta empresa... que es mucho mucho más que solo vSphere.

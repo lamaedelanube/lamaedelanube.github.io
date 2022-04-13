@@ -88,7 +88,33 @@ F: Bueno, listos con los requisitos. Ahora nos vamos a Pipeline y comenzamos a c
 > En realidad, algo que estamos asumiendo en este post es que tenemos muy claro el paso a paso de lo que queremos hacer, y los comandos que debemos ejecutar para lograrlo. Este podria no ser el caso claro, y podriamos requerir a documentacion externa. Algo que yo hice fue probar los comandos primero "manualmente" en el mismo host y luego traerlo a automatizar.
 
 
+Ok deciamos, nos dirigimos a Pipelines y allí nuevo pipeline y Black Canvas
 
+- Como todo, lo asignamos a un proyecto y le ponemos un nombre.
+- Ok, entramos al editor
+Podriamos escibir mucho sobre este editor, pero debemos ver lo básico
+
+![image](https://user-images.githubusercontent.com/51407995/163282758-a6b98e1d-3ab3-4112-a9c1-789295c91823.png)
+
+-- En el primer tab tenemos los inputs, aquí debemos considerar que entradas vamos a ir pidiendo de los usuarios de acuerdo a las diferentes etapas de los comandos que vamos a ejecutar. 
+
+En este caso yo cree todos los que se ven a continuación:
+
+![image](https://user-images.githubusercontent.com/51407995/163282887-82c0f930-817f-4fc7-ba5b-1be833b0681b.png)
+
+-- El segundo tab, workspace, no lo vamos a usar en este momento. Si nos hubieramos ido por el la forma #1 de hacerlo, aqui es donde deberiamos introducir la imagen a usar y el ambiente de docker/K8s.
+
+-- El tercer tab es donde hacemos el trabajo como tal. Aqui creamos el modelo.
+Ya que esta es una herramienta de CI/CD podemos tener diferentes Stages y pasos simultaneos o paralelos dentro de los mismos. 
+
+El modelo básico al que vamos a llegar es este:
+
+
+![image](https://user-images.githubusercontent.com/51407995/163283340-97158cb3-9490-4fe8-bd4b-725e32858ee6.png)
+
+Realmente es bastante sencillo y pudimos haberlo hecho en un solo paso, pero quisiera tener granularidad y poder poner controles en el medio.
+
+Pero este post está ya muy largo, así que lo continuaremos en la siguiente entrada.
 
 
 

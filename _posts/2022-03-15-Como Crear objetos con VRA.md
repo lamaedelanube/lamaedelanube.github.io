@@ -27,6 +27,8 @@ Vemos que aunque tenemos recursos para las redes y los resources groups, no tene
 | Facil de  implementar| Require un motor de ejeucion |
 |Permite integraciones más complejas| No tiene acciones de dia 2| 
 
+<a href= https://github.com/lamaedelanube/lamaedelanube.github.io/blob/main/_posts/2022-03-16-AKS%20con%20CodeStream-1.md>Aquí</a> vamos a empezar a discutir las formas de lograrlo. Por que tampoco hay una sola.
+
 <br/><br/>
 
 3. Usar la integracion de Cloud Assembly con Terraform.
